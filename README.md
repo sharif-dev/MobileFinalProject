@@ -1,6 +1,5 @@
 # MobileFinalProject
-MobileProgrammingFinalProject.
-# download the uploaded Zipfile.
+MobileProgrammingFinalProject -> download the uploaded zipfile.
 | StudentName | ID |
 | :---: | :---: |
 | AmirHoseinRostami | 96101635 |
